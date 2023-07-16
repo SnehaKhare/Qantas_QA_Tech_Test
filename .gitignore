@@ -1,0 +1,9 @@
+src/main/java
+src/main/resource
+src/test/resource
+allure-results
+target
+test-output
+.classpath
+.settings/
+.project
